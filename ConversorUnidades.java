@@ -1,6 +1,6 @@
 public class ConversorUnidades {
 
-// Contribución de Juan Pérez: Módulo de temperatura.
+
 
 // Autor: Juan Manuel Francisco Mendoza - Cambio local
 
